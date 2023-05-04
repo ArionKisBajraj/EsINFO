@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.AssemblyInfo.cs
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\bin\Debug\net6.0\AddressGenerator.exe
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\bin\Debug\net6.0\AddressGenerator.deps.json
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\bin\Debug\net6.0\AddressGenerator.runtimeconfig.json
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\bin\Debug\net6.0\AddressGenerator.dll
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\bin\Debug\net6.0\AddressGenerator.pdb
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.dll
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\refint\AddressGenerator.dll
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.pdb
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\AddressGenerator.genruntimeconfig.cache
+C:\Users\hp\source\repos\AddressGenerator\AddressGenerator\obj\Debug\net6.0\ref\AddressGenerator.dll
