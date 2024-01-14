@@ -1,0 +1,88 @@
+/* Stili di base per il corpo e il layout generale */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #232f3e;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FF9900; /* Colore personalizzato */
+}
+
+.navigation a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    background-color: #FF9900; /* Colore personalizzato */
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #E68A00; /* Colore personalizzato per l'hover */
+}
+
+a {
+    color: #4285f4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #232f3e;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+/* Aggiungi questi stili al tuo file CSS */
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.amazon-logo {
+    width: 40px; /* Imposta la larghezza desiderata per il logo */
+    height: auto;
+    margin-right: 10px; /* Aggiungi uno spazio tra il logo e il testo */
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #FF9900;
+}
